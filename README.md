@@ -40,6 +40,7 @@ Software developer committed to creating innovative and high-quality solutions. 
 ## 🌱 Featured Projects
 
 [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=CarlosMinhos&repo=map_Editor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CarlosMinhos/map_Editor)
+[![Sir Joca](https://github-readme-stats.vercel.app/api/pin/?username=sawsent&repo=sirJoca&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sawsent/sirJoca)
 
 <p align="left">
   <a href="https://github.com/CarlosMinhos?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
