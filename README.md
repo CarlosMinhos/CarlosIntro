@@ -31,12 +31,6 @@ Software developer committed to creating innovative and high-quality solutions. 
 
 <br/>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMinhos&show_icons=true&locale=en&layout=compact&theme=radical" alt="CM" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarlosMinhos&show_icons=true&locale=en&theme=radical" alt="CM" style="display: inline-block; margin-left: 10px;">
-</div>
-<p>
-<br/>
 ## 🌱 Featured Projects
 
 [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=CarlosMinhos&repo=map_Editor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CarlosMinhos/map_Editor)
